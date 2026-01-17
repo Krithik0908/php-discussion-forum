@@ -1,5 +1,4 @@
 
-
 ---
 
 ```
@@ -91,7 +90,7 @@ C:\xampp\htdocs\qanda
 
 👨‍💻 Author
 **Krithik**  
-
+3rd Year IT Student
 ```
 
 ---
