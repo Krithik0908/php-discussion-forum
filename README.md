@@ -1,5 +1,5 @@
 
-```
+```markdown
 # 💬 PHP Discussion Forum
 
 PHP Discussion Forum is a web-based application that enables users to ask questions, post answers, and participate in discussions through replies. The project focuses on building a structured, database-driven forum using PHP and MySQL with a responsive user interface.
